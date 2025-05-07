@@ -1,3 +1,3 @@
 ## Demo Image
 
-![Ketryx demo test](./Ketryxdemo.png)
+![Ketryx demo](https://github.com/leechickering/git-based-items/blob/main/docs/Ketryxdemo.png)
