@@ -1,3 +1,3 @@
 ## Demo Image
 
-![Ketryx demo](./Ketryxdemo.png)
+![Ketryx demo test](./Ketryxdemo.png)
