@@ -1,7 +1,5 @@
 ---
-itemId: rq-2
 itemType: Requirement
-itemHasParent: KT-99
 ---
 
 # Patient app image reference
